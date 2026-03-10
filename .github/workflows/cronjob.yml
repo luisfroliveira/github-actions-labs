@@ -1,3 +1,5 @@
+name: Cron Job
+
 on:
   schedule:
     # Executa as 21:50 horario brasilia (UTC)
